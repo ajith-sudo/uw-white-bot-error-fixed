@@ -41,26 +41,26 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.owner = ['761192103'] //ur owner number
-global.ownername = "Udavin Wijesundara"
-global.ytname = "YT: UW TECH SHOW" //ur yt chanel name
-global.socialm = "Insta: udavin_wijesundara" //ur github or insta name
-global.location = "Sri-Lanka" //ur location
+global.owner = ['9567046554'] //ur owner number
+global.ownername = "the_wireshark"
+global.ytname = "Nop" //ur yt chanel name
+global.socialm = "Insta: the_wireshark" //ur github or insta name
+global.location = "US" //ur location
 
 //bot bombdy
-global.botname = "White King WhatsApp Bot" //ur bot name
-global.websitex = "https://www.youtube.com/channel/UC8CNAgNIXy1O2vLBBSN7tcA" //ur website
+global.botname = "Mr.PC WhatsApp Bot" //ur bot name
+global.websitex = "https://www.youtube.com" //ur website
 global.vidmenu = { url: 'https://a.uguu.se/zlzQZvXH.mp4' } //gif and video menu
 global.packname = "Cheems Bot Stickers\n\n\n\n\n\n\n🦄🦄🦄 "
-global.author = "Udavin Wijesundara"
+global.author = "Wireshark"
 global.themeemoji = "🐶"
 global.reactmoji = "😘"
-global.ownertag = ['761192103'] //ur owner tag
-global.ownernummenu = ['761192103'] //ur owner number in menu and all
-global.watermark = "White King WhatsApp Bot." //ur watermark
-global.botscript = "https://www.youtube.com/watch?v=vXBO1zJbGJ4"
-global.linkz1 = "https://chat.whatsapp.com/Ivsw8fEw5lW0n0qKEDHfUX"
-global.linkz2 = "https://chat.whatsapp.com/Jub3moTE7jaBERo8DqWXC1"
+global.ownertag = ['9567046554'] //ur owner tag
+global.ownernummenu = ['9567046554'] //ur owner number in menu and all
+global.watermark = "Mr.PC WhatsApp Bot." //ur watermark
+global.botscript = "https://www.youtube.com"
+global.linkz1 = "https://chat.whatsapp.com"
+global.linkz2 = "https://chat.whatsapp.com"
 
 //Bot theme media
 global.thum = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
